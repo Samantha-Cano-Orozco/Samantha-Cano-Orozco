@@ -8,7 +8,7 @@
 ## Contact me:
 
 - [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:samanthacanoorozco@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
+
 
 ## Experience:
 

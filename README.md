@@ -13,9 +13,9 @@
 ## Experience:
 
 -HackMTY
-**September 2023 - December 2023** 
+**October 2025** 
 <br/>
-Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+36-hour Hackaton
 
 ## Skills:
 
